@@ -1,0 +1,8 @@
+testing
+/home/jason/Documents/SMMcalc/3.CIF
+/home/jason/Documents/SMMcalc/ZQ49 GdCu dimer M vs T 121911.txt,/home/jason/Documents/SMMcalc/ZQ49 GdCu dimer M vs H 121911.txt
+Gd Cu
+3.5 0.5
+0 1
+0 1
+001
